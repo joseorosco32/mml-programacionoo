@@ -6,6 +6,8 @@
 
 package tresenraya;
 
+
+//clase alumno
 /**
  *
  * @author Alumnos
